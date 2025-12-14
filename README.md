@@ -61,7 +61,7 @@ The data was cleaned and transformed using **Power Query** before analysis.
 ### 🔹 Interactive Visuals
 
 * Field-wise and career-wise analysis
-* Tables with conditional formatting
+* Tables with conditional formatting and add color.
 * Advanced charts for trend and comparison
 
 ### 🔹 Interactivity
