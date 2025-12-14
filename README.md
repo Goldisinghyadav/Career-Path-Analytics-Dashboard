@@ -100,7 +100,7 @@ The data was cleaned and transformed using **Power Query** before analysis.
 1. Open the `.pbix` file in **Power BI Desktop**
 2. Use slicers to filter data by field, GPA, or skills
 3. Click visuals to drill down into details
-4. Right-click on a career to drill through to the Career Analyzer page
+
 
 ---
 
