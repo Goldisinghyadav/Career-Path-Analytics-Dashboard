@@ -8,7 +8,7 @@ An interactive **Power BI dashboard** designed to analyze career paths using key
 
 The **Career Path Analytics Dashboard** helps explore how factors such as GPA, skills, certifications, and fields of study relate to different career paths. The dashboard enables users to interactively drill into the data and uncover insights at both high-level and detailed views.
 
-The focus of this project is on:
+The focus of this project is:
 
 * Data transformation and modeling
 * Writing meaningful DAX measures
