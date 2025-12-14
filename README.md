@@ -67,7 +67,6 @@ The data was cleaned and transformed using **Power Query** before analysis.
 ### 🔹 Interactivity
 
 * Slicers (Field, GPA range, Skills)
-* Drill-down (Field → Career → Skill)
 * Drill-through page for detailed career analysis
 * Smart Narrative visual for auto-generated insights
 
