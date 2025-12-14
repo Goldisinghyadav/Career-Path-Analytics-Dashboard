@@ -13,7 +13,7 @@ The focus of this project is:
 * Data transformation and modeling
 * Writing meaningful DAX measures
 * Designing a clean, professional, and user-friendly dashboard
-* Applying interactive features such as slicers, drill-down.
+* Applying interactive features such as slicers.
 
 ---
 
